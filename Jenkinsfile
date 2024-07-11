@@ -11,3 +11,5 @@ pipeline{
     success{
       mail bcc:'',body:'Hello Leo...! This build is success',cc:'',replyTo:'',subject:'Jenkins || Build',to:'bandivijaykumarbvk@gmail.com'
 }
+  }
+}
